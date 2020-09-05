@@ -1,10 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/r41smy5WwN2Swes8PwahhWRQvCU.jpg" group-title="Filmes de Ação", Mulan HD
-https://drive.google.com/file/d/19eZSuKrGAvo4-gJ2se4WGCpDhjXnhPih/view
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/6oNm06TPz2vGiPc2I52oXW3JwPS.jpg" group-title="Filmes Animados", Viva - A Vida é uma Festa HD
-https://drive.google.com/file/d/1Zhyq3U4HlWnganNrAJbLjiRi01y-_4oj/view
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/vWZslR3J2ykT9J1pBzgmiR4eMrJ.jpg" group-title="Filmes Animados", Voando Alto HD
-https://drive.google.com/file/d/11bE17JbrBC7WwTsj2hnp7QO86KqDAwdx/view?usp=sharing
+#EXTINF:-1 tvg-logo="" group-title="Sortilegio", Capitulo 1
+https://proxy-009.ix7.dailymotion.com/sec(zlsE6ZSaVLSMXxY4GyPBtxStfzPuPzaNb1KyFp9NY0taWGvUT1S3QliTHiPcwYjnWZ0Me3Jai7THrZIHsK8pryRSP9cAtRDQQaOyst1dAzY)/video/535/149/370941535_mp4_h264_aac_hq.m3u8#cell=core&qos_part=1
